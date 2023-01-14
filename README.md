@@ -1,3 +1,5 @@
+**This is a copy of move.nvim plugin by fedepujol since the original repo has been deleted. It is based on latest commit before deletion.**
+
 # move.nvim
 
 Gain the power to move lines and blocks!
